@@ -1,0 +1,6 @@
+a[href="http://www.google.com"] {
+    color: red;
+}
+input[type="tel" ] {
+    border: 5px solid red;
+}
